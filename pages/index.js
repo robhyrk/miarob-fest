@@ -11,12 +11,12 @@ const LINEUP = {
     main: 'Biscits',
     venue: 'ToyBox',
     link: 'https://www.torontoclubs.com/events/biscits-at-toybox-toronto',
-    after: 'TBD'
+    after: 'Wiggle Room'
   },
   saturday: {
-    start: '1pm',
-    pre: 'Breakfast @The Pint',
-    main: 'TBD',
+    start: '12pm',
+    pre: 'Bottomless Mimosas @The Pint',
+    main: 'Maria Garcia & The Chiquititas',
     venue: 'Woodbine Beach',
     link: 'https://thepintto.com/_s/menu/The-Pint-Brunch.pdf',
     after: 'TBD'
@@ -96,7 +96,7 @@ export default function Home() {
         <div className='border-black border-2 p-10'>
           <h2 className='text-5xl font-bold mb-10 underline'>Early Access Pass</h2>
           <h3 className='text-8xl font-bold uppercase mb-10'>Sold Out!</h3>
-          <p className='text-xl lg:w-1/2 mx-auto'>We are offically sold out of 2022 passes! <br/>Thank you all for the support. Please check our third partners for resale tickets</p>
+          <p className='text-xl lg:w-1/2 mx-auto'>We are offically sold out of 2022 passes! <br/>Thank you all for the support. <br/>Please check our resale partners for tickets</p>
         </div>
       </div>
 
